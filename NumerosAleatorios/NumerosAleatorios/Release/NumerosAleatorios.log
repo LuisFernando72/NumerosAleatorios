@@ -1,0 +1,10 @@
+﻿  NumerosAleatorios.cpp
+C:\Users\Luis Fernando Paxel\source\repos\NumerosAleatorios\NumerosAleatorios\NumerosAleatorios.cpp(108,15): warning C4101: 'aleatorio': variable local sin referencia
+C:\Users\Luis Fernando Paxel\source\repos\NumerosAleatorios\NumerosAleatorios\NumerosAleatorios.cpp(108,12): warning C4101: 'n': variable local sin referencia
+C:\Users\Luis Fernando Paxel\source\repos\NumerosAleatorios\NumerosAleatorios\NumerosAleatorios.cpp(107,9): warning C4101: 'arreglo': variable local sin referencia
+  Generando código
+  2 of 187 functions ( 1.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  NumerosAleatorios.vcxproj -> C:\Users\Luis Fernando Paxel\source\repos\NumerosAleatorios\Release\NumerosAleatorios.exe
