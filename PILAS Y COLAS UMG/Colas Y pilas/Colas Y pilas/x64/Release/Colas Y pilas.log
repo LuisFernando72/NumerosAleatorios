@@ -1,0 +1,12 @@
+﻿  Colas Y pilas.cpp
+C:\Users\Luis Fernando Paxel\source\repos\Colas Y pilas\Colas Y pilas\Colas Y pilas.cpp(1,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\Luis Fernando Paxel\source\repos\Colas Y pilas\Colas Y pilas\Colas Y pilas.cpp(76,24): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Luis Fernando Paxel\source\repos\Colas Y pilas\Colas Y pilas\Colas Y pilas.cpp(135,29): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Luis Fernando Paxel\source\repos\Colas Y pilas\Colas Y pilas\Colas Y pilas.cpp(188,25): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Luis Fernando Paxel\source\repos\Colas Y pilas\Colas Y pilas\Colas Y pilas.cpp(173,6): warning C4101: 'i': variable local sin referencia
+  Generando código
+  8 of 181 functions ( 4.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  Colas Y pilas.vcxproj -> C:\Users\Luis Fernando Paxel\source\repos\Colas Y pilas\x64\Release\Colas Y pilas.exe
